@@ -19,6 +19,7 @@
 - [x] Update to use crypto_db and crypto_prices collection, print name and price
 
 ## 4. Testing
-- [ ] Start Docker containers
-- [ ] Run producer, streams, consumer
-- [ ] Check MongoDB for inserted data
+- [x] Start Docker containers
+- [x] Run producer, streams, consumer
+- [x] Check MongoDB for inserted data
+- [x] Upload to GitHub repository
